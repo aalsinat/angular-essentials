@@ -1,0 +1,12 @@
+[submodule "angular-components"]
+	path = angular-components
+	url = https://github.com/aalsinat/angular-components.git
+[submodule "angular-debugging-3rd-party"]
+	path = angular-debugging-3rd-party
+	url = https://github.com/aalsinat/angular-debugging-3rd-party.git
+[submodule "angular-directives"]
+	path = angular-directives
+	url = https://github.com/aalsinat/angular-directives.git
+[submodule "angular-in-practice"]
+	path = angular-in-practice
+	url = ./angular-in-practice
